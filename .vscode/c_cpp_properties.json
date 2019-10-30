@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/",
+                "/usr/include/directfb-internal/core",
+                "/usr/include/directfb",
+                "/usr/include/directfb-internal/windows",
+                "/usr/include/directfb-internal",
+                "/usr/local/include/directfb-internal/core",
+                "/usr/local/include/",
+                "/usr/local/include/directfb-internal/windows",
+                "/usr/local/include/directfb-internal",
+                "/usr/local/include/directfb",
+                "/usr/local/include/directfb"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
